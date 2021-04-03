@@ -1,2 +1,2 @@
-# Speec-To-Text
+# Speech-To-Text
 transcribes audio files to text
